@@ -8,7 +8,7 @@ With a revenue of $128 billion (INR 9.6 trillion) in 2021-22, the companies coll
 There are 29 publicly listed Tata enterprises – many being market leaders in their industries. 
 
 
-<h2>There are 4 quistions:<\h2>
+<h2>There are 4 quistions:</h2>
 
 1: Framing the Business Scenario:
 Learn how to anticipate the questions your business leaders will need answers to
